@@ -24,7 +24,7 @@
 Bu projedeki tüm kodlar, tasarımlar ve içerikler geliştiricilere aittir.  
 
 - İzinsiz kopyalama, dağıtım veya ticari kullanım yasaktır.  
-- Kodun GitHub commit geçmişi ve yükleme zaman damgaları, projenin size ait olduğunun kanıtıdır.  
+- Kodun GitHub commit geçmişi ve yükleme zaman damgaları, projenin bize ait olduğunun kanıtıdır.  
 - Bu içeriğin herhangi bir yetkisiz kullanımında yasal haklar saklıdır.
 
 ---
